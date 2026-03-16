@@ -1,0 +1,1001 @@
+Age,Weight (kg),Height (cm),BMI,Diabetes,Anemia,Athlete,Overweight,Recommended Rice Variety
+78,46.1,154.9,19.2,False,True,False,False,NDR 2064
+78,90.5,159.2,35.7,True,False,False,True,Kagga
+43,76.7,148.4,34.8,False,True,False,True,Phou
+37,45.8,185.9,13.3,True,True,True,False,Masuri
+44,80.1,183.3,23.8,False,False,False,False,Chakhao
+21,75.6,168.2,26.7,False,True,False,True,Wada Kolam
+52,62.7,160.4,24.4,False,True,True,False,BPT 5204
+79,47.4,171.0,16.2,True,True,False,False,Pusa Basmati-1
+53,67.8,164.4,25.1,True,True,False,True,Karjat
+59,80.6,153.4,34.3,True,True,True,True,Jeerakasala
+52,72.9,146.2,34.1,True,False,True,True,Black Rice
+77,91.2,162.5,34.5,False,False,True,True,Ponni
+24,75.7,161.6,29.0,True,False,False,True,Kalanamak
+48,97.1,174.9,31.7,False,False,False,True,Naveen
+44,45.5,168.4,16.0,True,False,True,False,Danteshwari
+76,87.7,146.2,41.0,False,False,True,True,Black Rice
+62,85.7,175.5,27.8,True,True,False,True,Jaya
+39,72.2,145.9,33.9,True,True,False,True,Janki
+80,99.9,171.5,34.0,True,False,False,True,Kalanamak
+18,80.5,169.2,28.1,False,False,True,True,Mansuri
+64,66.1,162.7,25.0,False,True,False,False,Savitri
+46,95.4,165.0,35.0,True,False,False,True,JIR
+55,73.4,183.4,21.8,True,True,True,False,Rasi Gold
+76,81.1,177.3,25.8,False,True,False,True,Indrayani
+35,94.5,148.9,42.6,True,True,True,True,Pusa 1509
+31,68.5,179.0,21.4,False,True,True,False,Jeerakasala
+56,63.6,145.9,29.9,False,True,False,True,Ajaya
+30,68.3,170.7,23.4,False,True,False,False,Janki
+77,70.2,176.2,22.6,False,True,False,False,Sharbati
+31,80.3,155.5,33.2,False,False,False,True,CR 1009
+64,73.9,183.8,21.9,False,False,False,False,Matta
+73,77.1,174.2,25.4,False,False,True,True,Basmati 370
+43,78.5,172.3,26.4,True,True,False,True,Lalat
+49,86.6,176.8,27.7,False,False,False,True,Patni
+21,58.3,153.1,24.9,True,True,True,False,Arize 6444
+71,56.9,150.2,25.2,False,False,False,True,Kagga
+64,73.8,177.5,23.4,False,True,True,False,Rajamudi
+31,54.8,171.7,18.6,True,False,False,False,CR 1009
+47,83.0,156.0,34.1,False,False,False,True,Jalmagna
+45,73.3,173.6,24.3,False,False,False,False,CR Dhan 701
+78,52.6,148.2,23.9,False,False,True,False,Bhoomi
+65,94.3,169.3,32.9,True,True,True,True,Matta
+34,82.5,167.0,29.6,True,False,False,True,PR114
+66,89.7,164.9,33.0,False,True,True,True,Suraj
+48,83.2,165.2,30.5,False,True,True,True,Pant Dhan 4
+52,90.0,145.6,42.5,True,False,False,True,VL Dhan 202
+32,62.2,154.1,26.2,False,False,True,True,Rasi Diamond
+59,60.1,188.0,17.0,False,False,False,False,Ajaya
+29,96.2,173.8,31.8,False,False,False,True,Sindhu
+46,97.7,171.5,33.2,False,True,True,True,MTU1010
+22,65.9,165.5,24.1,True,False,True,False,MTU1010
+48,46.0,151.6,20.0,True,False,True,False,Danteshwari
+60,55.6,182.3,16.7,False,False,False,False,Patni
+78,48.0,174.3,15.8,False,False,False,False,Neelam
+62,72.5,187.6,20.6,False,False,True,False,Matta
+63,98.0,184.1,28.9,True,True,False,True,Dubraj
+68,85.7,170.7,29.4,True,True,False,True,Kalajeera
+44,50.6,151.8,22.0,True,True,True,False,Ponni
+76,55.9,157.9,22.4,False,True,False,False,Bhutmoori
+39,98.6,153.9,41.6,False,True,False,True,Naveen Sankar
+24,94.6,176.1,30.5,True,False,False,True,Patni
+75,83.7,183.0,25.0,False,True,True,False,CR 1009
+24,58.7,182.8,17.6,True,False,False,False,Pusa 1509
+78,74.3,167.0,26.6,False,True,True,True,Kranti
+41,93.2,180.6,28.6,True,True,False,True,Basmati 370
+64,99.9,188.5,28.1,False,False,True,True,Mogra
+69,76.8,158.8,30.5,False,True,True,True,Kalanamak
+47,64.0,187.1,18.3,True,False,False,False,Govind
+72,68.0,153.7,28.8,False,False,True,True,IR20
+55,57.5,178.5,18.0,False,False,True,False,Rasi Platinum
+72,57.4,179.4,17.8,False,False,False,False,Ratna
+39,49.1,153.3,20.9,False,False,False,False,Arize Gold
+24,76.5,155.1,31.8,False,True,False,True,Mogra
+63,60.5,171.2,20.6,True,True,True,False,IR8
+47,95.6,174.4,31.4,True,True,True,True,IET 4786
+54,92.6,159.8,36.3,False,True,False,True,Samba Mahsuri
+30,87.9,149.1,39.5,True,False,False,True,Basmati 370
+35,89.1,181.0,27.2,True,False,False,True,Arize Gold
+52,82.6,157.2,33.4,True,False,True,True,Chakhao
+56,76.2,172.1,25.7,False,True,True,True,Sharbati
+58,77.1,166.8,27.7,False,True,False,True,Narayan Kamini
+20,59.4,156.9,24.1,False,False,False,False,Jaya
+28,96.7,187.5,27.5,False,True,True,True,Kavuni
+48,88.7,184.6,26.0,False,True,True,True,Rasi Gold
+39,94.7,186.3,27.3,True,True,True,True,Varadhan
+41,85.5,187.6,24.3,True,True,True,False,Kalajeera
+23,93.6,171.6,31.8,True,True,False,True,Chakhao
+68,59.0,188.5,16.6,True,True,True,False,VL Dhan 202
+80,88.5,156.0,36.4,True,False,True,True,Heer
+75,88.1,182.9,26.3,False,False,False,True,Pant Dhan 4
+74,81.2,155.8,33.5,True,False,False,True,Sugandha
+34,64.9,156.1,26.6,True,False,True,True,Thuyamalli
+58,82.3,184.1,24.3,True,True,False,False,Chakhao
+18,55.3,177.1,17.6,False,False,True,False,Sugandha
+32,76.6,186.6,22.0,False,True,False,False,Thuyamalli
+29,50.2,164.7,18.5,True,False,False,False,Arize Gold
+67,59.2,188.7,16.6,True,False,False,False,Lalat
+44,79.3,178.9,24.8,False,False,False,False,Neeraja
+29,46.5,183.5,13.8,True,True,False,False,Narayan Kamini
+58,73.7,172.5,24.8,True,True,False,False,Krishna Hamsa
+80,74.1,148.9,33.4,False,False,False,True,Rasi Gold
+47,78.5,167.1,28.1,True,False,True,True,Phou
+49,75.2,184.1,22.2,True,False,True,False,Indrayani
+47,51.7,186.4,14.9,False,False,False,False,Mogra
+32,62.2,175.9,20.1,False,False,False,False,Kalanamak
+24,83.6,147.8,38.3,True,True,True,True,Lalat
+57,48.6,166.5,17.5,False,True,False,False,Rajamudi
+71,70.0,158.8,27.8,False,False,True,True,US312
+22,95.9,170.8,32.9,False,True,True,True,Navara
+80,52.3,161.8,20.0,True,False,True,False,Suraj
+74,89.0,169.9,30.8,False,True,False,True,Rajendra Sweta
+36,76.3,182.7,22.9,False,False,True,False,Savitri
+70,66.5,173.0,22.2,False,True,True,False,Rajamudi
+33,99.2,146.6,46.2,False,False,False,True,Jeerakasala
+21,69.0,174.9,22.6,True,False,True,False,Phou
+21,47.7,146.0,22.4,False,False,False,False,Black Rice
+61,65.7,148.7,29.7,True,True,True,True,Sona Masuri
+25,61.7,166.3,22.3,True,True,False,False,Aruna
+49,63.7,179.9,19.7,True,False,True,False,Sugandha
+64,71.4,155.0,29.7,False,True,True,True,Patni
+50,97.7,179.0,30.5,True,True,False,True,Chinoor
+26,99.0,162.5,37.5,False,True,True,True,BPT 5204
+70,47.2,183.2,14.1,True,True,True,False,Chakhao
+50,49.4,157.1,20.0,False,True,False,False,Sindhu
+58,83.6,148.0,38.2,True,True,False,True,Ponmani
+25,69.0,172.1,23.3,False,False,True,False,Matta
+61,59.3,182.1,17.9,True,False,False,False,Masuri
+71,54.3,171.7,18.4,False,False,True,False,RNR 15048
+62,49.0,150.9,21.5,False,True,False,False,Rasi Gold
+21,97.6,145.8,45.9,False,False,True,True,Arize Gold
+35,68.9,180.8,21.1,True,True,False,False,Thuyamalli
+51,69.5,145.8,32.7,True,False,False,True,Tulaipanji
+69,96.1,172.6,32.3,True,False,False,True,Tarori Basmati
+65,78.7,150.1,34.9,False,True,True,True,Karjat
+49,81.7,169.2,28.5,False,False,False,True,Naveen
+39,74.2,151.9,32.2,True,False,True,True,JIR
+55,87.7,160.1,34.2,True,False,False,True,Sindhu
+75,76.7,185.3,22.3,True,True,False,False,Samba Mahsuri
+75,95.1,179.4,29.5,False,False,True,True,Rasi Supreme
+29,53.7,149.4,24.1,True,False,False,False,Rajendra Sweta
+63,94.5,168.0,33.5,True,True,True,True,IR64
+71,61.0,145.1,29.0,False,False,True,True,Govind
+32,86.8,177.8,27.5,False,False,False,True,Tulaipanji
+79,67.2,156.4,27.5,False,True,True,True,Thuyamalli
+29,45.6,154.6,19.1,False,False,True,False,Janki
+51,88.2,178.1,27.8,False,False,False,True,Tamang
+49,72.8,152.7,31.2,False,True,False,True,Samba Mahsuri
+51,50.1,176.7,16.0,True,True,False,False,Jalmagna
+27,94.4,153.4,40.1,True,True,True,True,Black Rice
+72,84.4,179.1,26.3,False,True,False,True,Indrayani
+68,64.7,153.0,27.6,True,True,False,True,Sona Masuri
+41,93.9,185.9,27.2,True,True,False,True,Ponni
+35,77.2,184.5,22.7,True,True,True,False,Rajendra Sweta
+76,46.7,146.3,21.8,True,False,True,False,IET 4094
+67,81.1,148.5,36.8,True,True,False,True,Kalajeera
+68,68.7,184.8,20.1,True,True,True,False,IR 36
+63,59.3,181.6,18.0,False,True,True,False,Krishna Hamsa
+66,48.7,174.5,16.0,False,True,False,False,Rajendra Bhagwati
+78,51.8,150.4,22.9,True,True,False,False,Kalanamak
+40,81.8,166.7,29.4,False,True,True,True,Kohinoor
+51,64.7,180.6,19.8,False,True,True,False,Savitri
+27,59.7,156.7,24.3,True,True,True,False,Ratna
+78,72.6,168.5,25.6,True,False,True,True,Narmada
+37,78.5,188.5,22.1,False,True,False,False,Rajamudi
+21,47.8,186.8,13.7,False,False,False,False,Neelam
+23,88.4,158.1,35.4,False,False,True,True,Pusa Basmati-1
+66,73.1,156.0,30.0,False,False,False,True,Rasi Supreme
+46,74.8,163.4,28.0,False,True,False,True,Matta
+75,64.2,186.8,18.4,True,False,True,False,Black Rice
+18,62.2,167.0,22.3,False,True,False,False,Neeraja
+45,73.0,149.2,32.8,False,False,True,True,Kohinoor
+64,61.8,170.5,21.3,True,False,True,False,Heer
+77,48.7,170.5,16.8,True,True,True,False,Arize Gold
+44,45.7,152.7,19.6,False,False,False,False,Dubraj
+36,50.0,179.4,15.5,True,True,True,False,Aruna
+44,67.9,170.5,23.4,True,True,False,False,Pusa 1509
+73,97.6,174.2,32.2,False,True,False,True,BPT 5204
+40,55.2,165.9,20.1,False,True,True,False,Neelam
+59,54.4,167.6,19.4,True,True,False,False,IET 4094
+70,55.0,172.0,18.6,True,False,False,False,CR 1009
+55,81.1,166.7,29.2,True,True,True,True,Pusa Basmati-1
+42,99.2,154.6,41.5,True,False,True,True,Indrayani
+71,54.7,181.4,16.6,False,True,True,False,Matta
+20,88.0,179.7,27.3,True,True,True,True,Rajendra Bhagwati
+24,71.2,153.9,30.1,True,False,True,True,Red Rice
+76,57.6,162.8,21.7,True,True,False,False,NDR 359
+69,90.1,183.2,26.8,True,True,False,True,Tamang
+50,77.0,184.5,22.6,False,False,False,False,Malviya 36
+79,57.4,164.5,21.2,False,False,True,False,Naveen
+48,92.8,161.6,35.5,False,False,True,True,Pusa 1121
+60,58.4,156.1,24.0,False,True,True,False,Tulaipanji
+55,91.4,147.8,41.8,True,False,False,True,Sindhu
+60,68.2,158.6,27.1,True,False,True,True,Matta
+43,94.2,187.6,26.8,False,True,True,True,DRR Dhan 45
+64,79.3,176.3,25.5,False,True,True,True,PR114
+45,84.5,165.0,31.0,False,False,True,True,Phou
+79,60.9,162.3,23.1,False,False,False,False,Kranti
+50,77.0,151.7,33.5,True,True,True,True,Narmada
+76,52.8,188.3,14.9,False,True,True,False,Bhutmoori
+21,90.1,145.7,42.4,False,False,False,True,Bhadua
+36,78.7,173.3,26.2,False,False,True,True,Bhadua
+73,95.0,167.4,33.9,False,False,True,True,Ponni
+42,74.7,161.2,28.7,False,False,False,True,Chakhao Poireiton
+42,65.5,164.9,24.1,True,False,False,False,Govind
+80,68.3,169.8,23.7,True,False,True,False,IR 36
+77,67.0,178.7,21.0,True,True,True,False,Ponni
+58,92.0,174.9,30.1,False,False,False,True,JIR
+25,90.4,177.9,28.6,False,False,True,True,Malvika
+19,50.1,166.5,18.1,False,False,False,False,Ponmani
+52,92.6,159.9,36.2,True,True,False,True,Masuri
+78,63.1,177.4,20.1,True,True,False,False,Rajamudi
+66,47.1,170.2,16.3,True,False,False,False,Pusa 1121
+32,72.7,169.4,25.3,True,False,False,True,Govind
+44,65.0,168.7,22.8,False,False,False,False,Malvika
+73,99.8,184.5,29.3,False,True,False,True,IR 36
+31,84.3,155.2,35.0,True,False,False,True,Karjat
+76,94.0,175.6,30.5,False,True,False,True,MTU 7029
+32,50.9,162.6,19.3,True,True,False,False,NDR 359
+27,45.1,177.1,14.4,False,False,True,False,Sona Masuri
+54,66.6,147.5,30.6,True,False,True,True,Bhoomi
+35,83.7,153.9,35.3,False,True,True,True,Malvika
+27,94.8,162.4,35.9,False,False,True,True,Govind
+80,48.2,172.9,16.1,False,False,True,False,Chitti Mutyalu
+19,54.3,151.6,23.6,True,False,True,False,IET 4786
+27,61.6,170.1,21.3,True,True,False,False,Black Rice
+42,89.3,158.4,35.6,True,True,False,True,Bhadua
+22,51.5,146.7,23.9,False,False,True,False,Lalat
+22,82.9,188.7,23.3,True,False,True,False,HMT
+75,99.8,163.1,37.5,False,True,False,True,Narayan Kamini
+52,65.4,162.2,24.9,False,False,False,False,Sindhu
+30,72.8,179.1,22.7,True,False,True,False,Tulaipanji
+28,55.9,189.6,15.6,False,False,True,False,Samba Mahsuri
+42,93.3,162.1,35.5,True,False,True,True,Red Rice
+75,72.7,165.5,26.5,False,True,True,True,Narayan Kamini
+50,73.2,159.6,28.7,True,True,True,True,Sharbati
+61,86.5,145.3,41.0,False,True,True,True,Malviya 36
+40,91.6,173.2,30.5,False,False,True,True,DRR Dhan 45
+40,75.2,175.1,24.5,True,True,True,False,Kohinoor
+77,95.4,145.4,45.1,True,False,True,True,Chinoor
+60,84.8,155.2,35.2,True,False,False,True,MTU 7029
+27,84.0,173.8,27.8,False,True,False,True,Chitti Mutyalu
+65,85.7,152.4,36.9,True,True,False,True,Sharbati
+18,60.4,184.6,17.7,False,True,True,False,Pant Dhan 4
+53,59.4,183.6,17.6,True,False,False,False,Rasi Supreme
+67,51.5,185.3,15.0,True,False,True,False,Tulaipanji
+18,79.5,145.9,37.3,True,False,True,True,Jalmagna
+67,84.4,173.3,28.1,True,True,True,True,Rajendra Bhagwati
+80,53.7,155.1,22.3,False,False,True,False,Rasi Platinum
+23,77.5,152.5,33.3,True,False,True,True,NDR 2064
+79,49.4,173.1,16.5,False,True,False,False,Thuyamalli
+40,88.2,173.6,29.3,False,False,False,True,Ponni
+33,82.5,157.0,33.5,False,False,True,True,IET 4786
+58,99.3,155.4,41.1,True,False,False,True,Jeerakasala
+70,70.0,155.5,28.9,True,True,False,True,Arize Gold
+59,46.9,166.8,16.9,True,False,False,False,Black Rice
+72,93.6,149.6,41.8,True,True,False,True,Ratna
+78,79.1,181.3,24.1,True,False,True,False,Neeraja
+69,74.6,171.9,25.2,True,False,True,True,Ambemohar
+59,93.5,152.1,40.4,False,True,True,True,Rajamudi
+31,80.6,181.3,24.5,False,True,False,False,VL Dhan 202
+70,60.2,186.9,17.2,False,False,True,False,Kranti
+79,87.9,156.4,35.9,False,True,False,True,Bhutmoori
+72,65.6,166.1,23.8,True,True,False,False,Sindhu
+45,95.7,187.1,27.3,False,False,True,True,Kranti
+67,54.0,158.3,21.5,False,False,False,False,Malvika
+28,51.2,168.6,18.0,False,True,False,False,HMT
+20,69.0,175.1,22.5,False,False,False,False,NDR 2064
+72,82.6,153.8,34.9,False,True,False,True,HMT
+42,92.0,179.0,28.7,True,True,False,True,Kavuni
+62,70.5,172.6,23.7,False,True,True,False,Mansuri
+67,88.0,152.8,37.7,False,False,True,True,Pusa 1121
+19,88.5,162.0,33.7,False,False,True,True,Sona Masuri
+62,88.2,187.4,25.1,False,True,True,True,Phou
+44,45.6,153.8,19.3,True,True,True,False,Patni
+54,89.6,151.8,38.9,True,True,True,True,Tamang
+19,67.0,177.2,21.3,False,True,False,False,Neelam
+34,79.4,170.9,27.2,True,True,False,True,Naveen
+19,98.9,153.7,41.9,True,True,False,True,Kavuni
+34,86.0,146.2,40.2,True,False,True,True,Arize 6444
+33,87.0,173.9,28.8,False,True,False,True,Black Rice
+60,77.4,169.7,26.9,True,False,True,True,Ponmani
+78,82.5,177.2,26.3,True,False,True,True,DRR Dhan 45
+40,48.8,157.0,19.8,True,True,True,False,PR114
+46,64.7,167.4,23.1,True,False,False,False,Dubraj
+57,63.7,156.2,26.1,False,True,True,True,Sugandha
+47,98.2,185.9,28.4,False,False,True,True,Rajendra Sweta
+67,50.8,178.4,16.0,True,True,False,False,Kranti
+73,46.9,145.1,22.3,True,True,True,False,Rasi Diamond
+22,57.7,166.3,20.9,False,True,False,False,Ponni
+76,47.7,184.1,14.1,True,False,False,False,Bhutmoori
+60,57.3,167.5,20.4,True,False,True,False,Malvika
+33,87.4,171.7,29.6,False,True,True,True,Black Rice
+57,86.4,156.3,35.4,True,True,True,True,IR8
+34,92.1,160.9,35.6,True,True,True,True,Rathna Choodi
+43,52.0,174.8,17.0,True,True,False,False,Narayan Kamini
+47,96.7,168.5,34.1,False,False,True,True,Mogra
+18,86.9,149.1,39.1,True,False,False,True,Thuyamalli
+76,59.3,168.3,20.9,False,False,True,False,Danteshwari
+53,73.7,174.8,24.1,False,False,True,False,Rasi Diamond
+21,97.4,181.2,29.7,True,True,False,True,CR Dhan 701
+21,45.4,150.2,20.1,False,False,True,False,Kurumkuruva
+39,63.0,164.4,23.3,True,True,False,False,Kurumkuruva
+30,78.2,175.3,25.4,True,False,False,True,Bhadua
+37,84.5,165.2,31.0,True,True,True,True,Mansuri
+58,55.7,154.6,23.3,True,True,False,False,Lalat
+42,64.7,168.9,22.7,False,True,False,False,Danteshwari
+28,99.1,174.1,32.7,True,False,True,True,Janki
+32,54.2,160.2,21.1,True,True,False,False,Rasi Supreme
+43,76.9,157.3,31.1,False,True,True,True,Rathna Choodi
+49,48.3,161.4,18.5,True,True,False,False,Swarna
+66,88.8,185.1,25.9,False,True,True,True,Kalajeera
+46,74.7,189.7,20.8,False,True,True,False,Kohinoor
+36,45.7,185.9,13.2,False,True,True,False,IR 36
+66,77.7,166.4,28.1,False,False,True,True,VL Dhan 221
+59,85.5,175.5,27.8,False,False,False,True,Mogra
+46,65.9,148.2,30.0,False,False,True,True,Jeerakasala
+22,92.1,174.4,30.3,True,True,False,True,Arize 6444
+73,57.8,181.3,17.6,True,True,True,False,Ratna
+46,71.7,183.7,21.2,True,True,False,False,Rajendra Sweta
+19,61.2,176.2,19.7,False,False,True,False,Ponni
+51,62.8,155.6,25.9,True,False,False,True,Heer
+55,86.1,165.6,31.4,True,True,False,True,Arize Gold
+52,89.9,183.9,26.6,True,True,False,True,Bhadrachalam
+40,94.9,171.7,32.2,True,False,True,True,Black Rice
+23,51.6,165.5,18.8,False,True,True,False,Kurumkuruva
+79,82.0,171.7,27.8,True,False,True,True,Black Rice
+57,50.9,189.7,14.1,True,True,False,False,Rajamudi
+49,86.5,159.9,33.8,False,False,False,True,Bhoomi
+73,76.0,158.6,30.2,False,False,True,True,Sugandha
+60,52.4,150.3,23.2,False,True,True,False,Varadhan
+78,99.1,177.4,31.5,True,True,True,True,Sharbati
+65,45.7,173.7,15.1,True,True,True,False,Kagga
+73,56.0,188.2,15.8,True,True,True,False,Bhutmoori
+42,74.0,156.1,30.4,True,True,True,True,Rasi
+64,94.7,181.0,28.9,True,False,True,True,Govind
+32,73.8,150.1,32.8,False,True,True,True,Danteshwari
+55,92.9,175.4,30.2,False,False,True,True,Kalajeera
+46,75.2,180.7,23.0,True,True,False,False,Chakhao Poireiton
+26,82.2,189.3,22.9,False,False,False,False,Mansuri
+24,54.4,164.4,20.1,True,True,True,False,Thuyamalli
+30,62.0,168.5,21.8,True,False,True,False,Thuyamalli
+25,70.2,156.8,28.6,True,True,False,True,Black Rice
+29,90.0,157.8,36.1,True,False,True,True,Bhutmoori
+55,79.1,145.7,37.3,True,False,False,True,Sugandha
+62,88.1,179.1,27.5,True,True,False,True,Malviya 36
+62,81.1,176.1,26.2,False,False,True,True,VL Dhan 221
+66,56.0,163.1,21.1,True,True,False,False,Navara
+80,49.1,145.6,23.2,False,True,True,False,Kohinoor
+58,86.2,155.7,35.6,True,True,True,True,Phou
+78,69.6,170.7,23.9,False,True,True,False,Basmati 370
+77,60.2,169.3,21.0,False,False,True,False,PR114
+26,75.6,160.3,29.4,False,False,True,True,Heer
+20,58.4,155.6,24.1,False,True,False,False,Suraj
+58,97.9,177.3,31.1,True,True,True,True,Neelam
+61,82.5,176.5,26.5,True,False,True,True,Govind
+61,53.9,189.0,15.1,False,True,True,False,Bhadua
+72,78.6,180.3,24.2,True,True,False,False,Pusa 1509
+18,53.5,186.8,15.3,True,False,True,False,Danteshwari
+58,90.7,182.6,27.2,False,True,True,True,Arize 6444
+50,51.4,169.2,18.0,True,False,False,False,Narayan Kamini
+29,81.9,175.8,26.5,True,True,True,True,Rasi Platinum
+51,91.7,184.9,26.8,True,False,False,True,Sugandha
+21,98.4,180.9,30.1,True,True,True,True,Swarna
+60,91.3,186.8,26.2,False,False,True,True,Bhadrachalam
+19,97.1,178.8,30.4,False,True,False,True,Narayan Kamini
+22,56.1,178.3,17.6,False,True,False,False,Jeerakasala
+58,86.6,161.8,33.1,True,True,False,True,Bhoomi
+64,96.9,187.8,27.5,False,False,False,True,Thuyamalli
+53,70.3,165.1,25.8,False,False,False,True,Ratna
+41,55.4,183.0,16.5,False,False,True,False,Karjat
+64,97.9,186.2,28.2,True,True,False,True,Arize 6444
+48,61.2,166.5,22.1,False,True,False,False,NDR 2064
+26,62.2,152.1,26.9,False,True,True,True,Sindhu
+37,49.5,175.3,16.1,True,True,False,False,Kalanamak
+74,90.0,155.3,37.3,False,False,False,True,Masuri
+28,58.2,148.8,26.3,False,True,False,True,RNR 15048
+44,73.4,146.9,34.0,True,True,False,True,Naveen Sankar
+68,51.8,151.9,22.4,True,True,True,False,Narayan Kamini
+27,91.8,154.6,38.4,True,True,True,True,Pusa 1509
+26,63.8,164.9,23.5,True,False,False,False,Bhutmoori
+31,96.9,157.0,39.3,False,False,True,True,Masuri
+75,46.0,161.2,17.7,True,False,True,False,Kranti
+65,56.1,151.4,24.5,False,False,False,False,Red Rice
+79,62.8,182.0,19.0,True,False,False,False,Rasi
+20,91.8,188.7,25.8,False,True,True,True,Dubraj
+58,60.4,161.9,23.0,True,True,False,False,Black Rice
+19,64.5,147.1,29.8,False,False,True,True,Tamang
+19,63.5,188.6,17.9,True,True,True,False,VL Dhan 202
+26,74.8,171.2,25.5,False,True,False,True,Kalanamak
+41,77.2,186.6,22.2,False,True,False,False,VL Dhan 221
+50,89.0,166.7,32.0,False,False,True,True,Lalat
+25,70.7,152.3,30.5,False,True,False,True,Black Rice
+73,61.4,185.5,17.8,True,False,False,False,Arize 6444
+55,97.8,170.2,33.8,True,True,False,True,Kalajeera
+80,57.2,184.3,16.8,True,False,True,False,Rajendra Bhagwati
+57,86.5,170.4,29.8,True,False,True,True,Jeerakasala
+79,65.3,156.1,26.8,True,True,True,True,Kavuni
+23,66.8,148.7,30.2,True,True,False,True,Jalmagna
+72,62.7,172.3,21.1,True,True,True,False,Ambemohar
+28,87.9,162.1,33.5,True,False,False,True,Sharbati
+66,79.2,178.3,24.9,False,False,True,False,Govind
+50,81.1,163.0,30.5,False,True,False,True,Neelam
+52,53.4,152.0,23.1,False,False,False,False,Indrayani
+53,67.6,169.1,23.6,False,False,True,False,Arize 6444
+20,70.6,164.7,26.0,True,False,False,True,Dubraj
+43,59.7,160.8,23.1,False,False,False,False,Sugandha
+18,69.4,157.8,27.9,True,False,True,True,Neeraja
+66,62.2,160.6,24.1,False,True,False,False,Indrayani
+36,79.2,179.4,24.6,True,False,False,False,Neelam
+59,70.8,179.4,22.0,True,False,True,False,Varadhan
+69,69.5,155.1,28.9,False,True,True,True,Ambemohar
+47,64.3,184.4,18.9,True,True,True,False,Kranti
+56,53.4,180.0,16.5,False,False,False,False,Lalat
+78,96.8,174.3,31.9,False,False,False,True,Mansuri
+36,70.3,179.7,21.8,True,True,False,False,Rajendra Bhagwati
+48,81.8,171.1,27.9,False,True,True,True,Lalat
+21,85.2,186.4,24.5,False,False,True,False,Rajamudi
+38,66.6,150.5,29.4,True,True,False,True,Swarna
+33,63.0,177.3,20.0,True,False,False,False,Indrayani
+60,53.6,176.7,17.2,True,True,True,False,Kavuni
+42,92.8,163.2,34.8,True,False,True,True,Basmati 370
+31,68.0,169.9,23.6,False,False,False,False,Kurumkuruva
+40,92.4,151.5,40.3,False,False,False,True,Swarna
+19,89.2,180.2,27.5,False,True,True,True,RNR 15048
+35,73.0,183.4,21.7,True,False,True,False,Bhadrachalam
+33,88.6,173.8,29.3,False,True,False,True,Pusa Basmati-1
+69,79.9,146.3,37.3,False,True,False,True,Ponni
+20,54.9,174.4,18.1,True,True,False,False,Aruna
+51,94.9,159.3,37.4,False,False,True,True,Sugandha
+23,79.4,181.2,24.2,True,False,True,False,HMT
+47,60.8,182.4,18.3,True,True,True,False,Aruna
+64,49.2,185.4,14.3,False,False,False,False,Janki
+18,60.8,172.5,20.4,True,False,False,False,Lalat
+78,69.3,154.8,28.9,True,True,False,True,Kranti
+53,77.5,161.4,29.8,False,True,True,True,Black Rice
+26,59.4,151.0,26.1,True,False,True,True,DRR Dhan 45
+23,58.3,189.8,16.2,False,True,False,False,Rajendra Sweta
+73,52.8,146.2,24.7,False,False,True,False,MTU 7029
+78,45.4,183.4,13.5,True,False,False,False,Bhadua
+27,47.2,169.7,16.4,True,True,False,False,Rasi
+73,55.8,159.8,21.9,False,True,True,False,Pusa Basmati-1
+44,92.9,148.4,42.2,False,False,False,True,Danteshwari
+24,56.7,150.2,25.1,False,False,False,True,Jeerakasala
+64,66.1,157.3,26.7,True,False,False,True,Mogra
+52,70.0,170.2,24.2,True,True,True,False,Rajendra Sweta
+19,81.3,149.6,36.3,False,True,True,True,Amrit Bhog
+66,76.9,151.9,33.3,True,True,True,True,BPT 5204
+72,68.9,172.1,23.3,False,True,False,False,Gobindobhog
+42,94.4,159.3,37.2,False,True,True,True,MTU 7029
+25,45.3,146.9,21.0,True,True,True,False,Bhutmoori
+57,75.0,148.3,34.1,False,True,False,True,Bhutmoori
+34,87.5,168.1,31.0,False,False,False,True,Arize Gold
+44,87.8,169.5,30.6,True,True,False,True,Ponni
+35,97.0,187.8,27.5,True,True,False,True,Bhadua
+32,58.0,179.7,18.0,False,False,False,False,Aruna
+31,56.1,188.6,15.8,True,True,True,False,Sona Masuri
+46,94.2,156.5,38.5,False,False,False,True,Varadhan
+74,83.5,146.3,39.0,False,False,True,True,Sharbati
+79,62.7,145.4,29.7,False,False,True,True,Pusa Basmati-1
+18,45.5,150.7,20.0,False,True,False,False,Red Rice
+41,95.4,180.6,29.2,False,False,True,True,Kalanamak
+35,95.4,145.9,44.8,True,False,False,True,Chakhao Poireiton
+47,94.4,169.0,33.1,True,True,False,True,Arize Gold
+78,88.7,182.1,26.7,False,False,True,True,Kurumkuruva
+68,61.0,179.0,19.0,False,False,False,False,Ratna
+23,61.2,163.5,22.9,False,False,True,False,Karjat
+47,97.9,151.3,42.8,False,False,True,True,JIR
+20,82.8,184.2,24.4,False,False,True,False,Mogra
+27,56.4,169.3,19.7,False,True,True,False,Gobindobhog
+79,85.3,185.1,24.9,True,True,False,False,US312
+34,63.9,168.8,22.4,True,True,True,False,Neeraja
+72,79.3,180.0,24.5,True,True,False,False,Gobindobhog
+28,47.9,171.0,16.4,True,True,False,False,Malviya 36
+76,91.6,186.4,26.4,True,True,True,True,Pusa Basmati-1
+24,58.4,153.2,24.9,False,False,False,False,Karjat
+36,59.0,182.6,17.7,True,True,True,False,Mogra
+44,89.1,156.4,36.4,False,False,False,True,Sona Masuri
+21,94.6,176.2,30.5,True,True,False,True,Jalmagna
+66,81.0,147.8,37.1,True,False,False,True,Varadhan
+74,94.9,177.8,30.0,True,False,False,True,Pusa 1121
+65,98.3,160.4,38.2,True,False,False,True,Rajendra Bhagwati
+60,79.6,184.7,23.3,False,True,True,False,Chakhao Poireiton
+19,75.8,188.0,21.4,True,True,True,False,Sindhu
+76,86.3,185.5,25.1,False,True,False,True,MTU 7029
+63,59.5,176.4,19.1,False,False,False,False,Arize 6444
+58,58.1,168.4,20.5,True,True,True,False,Ajaya
+78,56.6,157.6,22.8,True,True,False,False,Karjat
+33,63.6,156.6,25.9,False,True,False,True,Malvika
+26,45.7,169.2,16.0,True,True,False,False,Patni
+42,76.0,175.5,24.7,True,False,False,False,CR Dhan 701
+50,51.8,179.9,16.0,True,True,False,False,Jeerakasala
+18,48.7,164.6,18.0,False,True,False,False,US312
+35,85.4,181.8,25.8,True,False,True,True,Pant Dhan 4
+59,71.9,158.4,28.7,False,False,False,True,Lalat
+21,54.4,151.0,23.9,False,False,False,False,Rasi Supreme
+21,77.9,173.7,25.8,False,False,False,True,Narayan Kamini
+43,80.9,160.9,31.2,False,False,False,True,Pusa 1121
+63,94.5,151.7,41.1,True,True,False,True,Neelam
+43,48.4,163.4,18.1,True,False,False,False,Ajaya
+70,63.1,184.1,18.6,False,True,False,False,Narayan Kamini
+56,47.4,164.8,17.5,True,True,True,False,PR114
+51,48.7,180.3,15.0,True,True,True,False,Danteshwari
+59,76.0,146.5,35.4,True,True,False,True,Narayan Kamini
+39,95.9,168.4,33.8,True,False,True,True,Black Rice
+36,78.9,151.9,34.2,True,False,True,True,Pusa 1509
+47,96.4,156.8,39.2,True,False,True,True,MTU1010
+53,61.5,174.6,20.2,False,True,True,False,IET 4094
+47,70.5,161.2,27.1,True,True,False,True,Sugandha
+70,83.0,175.0,27.1,False,False,False,True,CR Dhan 701
+18,54.5,187.0,15.6,True,True,False,False,Heer
+51,81.3,178.2,25.6,True,True,False,True,Kalajeera
+66,78.9,156.6,32.2,False,True,True,True,Phou
+29,48.8,154.1,20.6,False,True,False,False,NDR 359
+56,50.2,184.0,14.8,False,True,True,False,Rajendra Bhagwati
+43,51.0,159.3,20.1,False,False,False,False,Wada Kolam
+47,80.8,180.5,24.8,True,True,True,False,NDR 2064
+64,57.5,157.1,23.3,False,True,True,False,Rajamudi
+74,93.1,162.3,35.3,False,False,False,True,IET 4786
+24,79.3,181.6,24.0,True,False,False,False,Pusa 1121
+22,94.5,188.0,26.7,False,False,False,True,Jeerakasala
+61,89.7,146.7,41.7,False,True,False,True,MTU 7029
+34,54.4,181.2,16.6,True,True,True,False,US312
+60,90.8,160.5,35.2,True,True,True,True,IR 36
+79,74.9,177.8,23.7,True,False,True,False,Rathna Choodi
+26,69.1,183.0,20.6,True,True,False,False,Danteshwari
+31,47.3,174.3,15.6,False,True,True,False,Rasi Diamond
+66,45.5,154.0,19.2,False,True,True,False,Karjat
+73,61.2,188.7,17.2,True,True,False,False,IR 36
+43,48.7,158.8,19.3,False,False,False,False,Naveen Sankar
+26,51.4,149.6,23.0,False,True,True,False,Janki
+40,78.0,184.6,22.9,True,False,True,False,Red Rice
+77,62.8,163.6,23.5,False,False,False,False,Savitri
+72,69.0,164.1,25.6,True,False,True,True,Pusa Basmati-1
+32,68.8,159.3,27.1,False,True,False,True,Black Rice
+47,83.7,184.4,24.6,False,True,False,False,Tulaipanji
+55,86.4,179.0,27.0,True,True,True,True,IET 4094
+24,71.2,188.9,20.0,True,True,False,False,Matta
+20,97.9,156.3,40.1,True,False,False,True,Navara
+25,51.2,166.3,18.5,True,False,True,False,Kagga
+20,65.6,152.3,28.3,False,True,False,True,MTU 7029
+76,84.7,176.2,27.3,True,False,False,True,Ambemohar
+67,51.1,158.2,20.4,True,False,True,False,Janki
+36,73.3,188.2,20.7,False,False,False,False,Jaya
+33,71.7,189.7,19.9,False,True,False,False,Indrayani
+68,62.8,148.5,28.5,False,True,False,True,Sona Masuri
+72,66.6,150.4,29.4,True,False,True,True,Masuri
+39,72.7,165.7,26.5,True,False,False,True,Jeerakasala
+23,68.7,151.2,30.1,True,False,True,True,Sugandha
+71,66.3,146.3,31.0,False,True,False,True,Jeerakasala
+33,69.4,154.6,29.0,False,True,False,True,Rajendra Bhagwati
+61,93.5,167.0,33.5,False,True,True,True,Black Rice
+35,75.3,156.8,30.6,True,True,False,True,Bhutmoori
+18,72.6,147.2,33.5,True,True,True,True,IET 4094
+41,99.5,171.4,33.9,True,True,False,True,Tarori Basmati
+49,95.7,187.8,27.1,False,True,True,True,Ponni
+79,92.0,157.6,37.0,True,False,True,True,CR Dhan 701
+60,59.9,184.2,17.7,False,False,True,False,Samba Mahsuri
+59,87.1,182.4,26.2,False,False,True,True,Rajamudi
+34,53.3,159.3,21.0,True,False,True,False,Rathna Choodi
+78,66.1,166.6,23.8,False,True,False,False,Tarori Basmati
+43,93.0,184.4,27.4,True,True,True,True,Ratna
+37,50.4,159.8,19.7,False,True,True,False,Mansuri
+79,46.2,159.8,18.1,True,False,True,False,Chakhao Poireiton
+26,60.8,180.3,18.7,True,False,True,False,Danteshwari
+54,62.7,149.8,27.9,True,True,False,True,Sugandha
+78,62.7,160.2,24.4,False,True,False,False,Sugandha
+57,69.5,177.0,22.2,True,True,True,False,Kranti
+61,90.2,177.8,28.5,False,True,True,True,Basmati 370
+53,55.4,183.1,16.5,True,True,False,False,Swarna
+54,62.3,186.9,17.8,True,False,False,False,Indrayani
+66,50.9,168.5,17.9,False,False,False,False,Aruna
+51,98.3,177.7,31.1,False,False,False,True,DRR Dhan 45
+75,98.0,165.4,35.8,True,True,True,True,Heer
+18,82.9,176.7,26.6,False,False,False,True,Jeerakasala
+20,69.7,178.2,21.9,False,True,True,False,Rajamudi
+55,94.4,167.7,33.6,False,True,True,True,Swarna
+31,46.7,170.2,16.1,True,False,True,False,Kalanamak
+37,89.1,187.1,25.5,True,False,True,True,IET 4094
+41,66.9,185.4,19.5,False,False,True,False,Suraj
+58,55.1,173.8,18.2,True,False,True,False,Kohinoor
+24,76.6,165.5,28.0,False,False,True,True,Masuri
+51,69.3,187.3,19.8,False,True,True,False,IET 4786
+45,45.3,175.8,14.7,True,True,True,False,Jaya
+37,69.0,169.7,24.0,True,True,True,False,Pusa 1509
+60,89.3,182.2,26.9,False,False,False,True,CR 1009
+62,94.4,153.5,40.1,True,False,False,True,Tulaipanji
+39,49.3,182.0,14.9,True,False,False,False,DRR Dhan 45
+68,70.3,163.3,26.4,True,False,False,True,Indrayani
+40,60.5,162.1,23.0,False,True,True,False,Kagga
+21,78.8,178.9,24.6,True,False,True,False,Lalat
+74,59.2,173.5,19.7,False,True,False,False,CR 1009
+20,57.9,162.1,22.0,False,False,True,False,Savitri
+55,65.5,148.3,29.8,True,True,True,True,Black Rice
+55,80.4,145.5,38.0,True,False,True,True,Bhadrachalam
+54,90.6,160.8,35.0,False,False,False,True,Amrit Bhog
+59,69.7,176.2,22.5,False,True,True,False,Heer
+79,89.7,171.2,30.6,True,False,True,True,Pusa Basmati-1
+34,59.6,170.6,20.5,False,False,True,False,Tamang
+76,71.6,158.3,28.6,False,True,True,True,IET 4094
+50,50.8,167.7,18.1,False,False,True,False,Naveen
+63,85.3,150.7,37.6,True,False,True,True,Heer
+58,54.3,184.7,15.9,True,True,False,False,Rasi Gold
+47,77.2,178.2,24.3,False,True,True,False,Bhadrachalam
+42,81.5,181.4,24.8,True,False,False,False,Dubraj
+27,92.0,155.0,38.3,False,False,False,True,Wada Kolam
+56,47.7,183.4,14.2,True,True,False,False,Phou
+29,54.8,174.9,17.9,True,True,False,False,Patni
+64,65.4,166.0,23.7,False,False,True,False,Rasi
+18,50.2,180.6,15.4,True,True,True,False,Ratna
+24,85.9,150.1,38.1,False,False,False,True,Matta
+50,69.2,175.8,22.4,True,False,False,False,Chinoor
+29,49.6,177.1,15.8,False,False,True,False,Ambemohar
+74,72.7,145.7,34.2,False,False,True,True,Rasi Gold
+42,97.1,185.5,28.2,True,False,True,True,Tamang
+74,82.2,151.6,35.8,False,False,False,True,Krishna Hamsa
+66,62.6,145.9,29.4,False,False,False,True,Amrit Bhog
+20,90.2,145.7,42.5,True,True,True,True,Masuri
+22,66.8,164.2,24.8,True,True,True,False,Mogra
+73,80.0,156.7,32.6,False,False,True,True,Rasi Diamond
+44,83.3,174.2,27.5,False,False,False,True,IR20
+28,60.1,161.7,23.0,False,False,False,False,Danteshwari
+27,92.9,170.1,32.1,False,False,False,True,Suraj
+46,45.1,170.8,15.5,True,False,True,False,Pusa Basmati-1
+41,63.6,169.3,22.2,False,False,True,False,Heer
+27,73.5,151.5,32.0,True,False,False,True,Black Rice
+70,60.5,158.5,24.1,False,True,False,False,Bhadua
+65,78.6,164.7,29.0,True,False,False,True,IR 36
+26,88.2,158.9,34.9,True,False,True,True,Swarna
+24,69.5,146.5,32.4,True,False,False,True,Arize Gold
+48,69.1,155.5,28.6,False,True,False,True,Tarori Basmati
+22,90.4,184.7,26.5,False,True,False,True,Rasi Platinum
+35,70.3,159.2,27.7,True,True,True,True,Kavuni
+35,48.0,189.3,13.4,False,False,True,False,Pusa 1509
+57,52.8,185.7,15.3,False,True,False,False,Swarna
+32,66.2,158.2,26.5,True,True,True,True,Naveen
+59,64.6,188.3,18.2,True,False,True,False,Masuri
+19,68.2,170.0,23.6,False,True,False,False,Thuyamalli
+42,78.0,145.3,36.9,True,True,True,True,IET 4786
+63,76.1,163.5,28.5,False,False,False,True,MTU 7029
+42,97.0,166.6,34.9,False,False,True,True,Karjat
+26,76.6,184.7,22.5,False,False,False,False,Krishna Hamsa
+57,97.4,146.7,45.3,True,False,True,True,Jaya
+48,97.7,172.0,33.0,True,True,False,True,Red Rice
+24,47.9,146.2,22.4,True,False,False,False,Jaya
+70,51.8,157.7,20.8,True,True,False,False,Mansuri
+74,73.5,158.4,29.3,True,True,False,True,IET 4786
+38,89.3,165.5,32.6,False,False,False,True,MTU 7029
+48,52.1,175.4,16.9,True,False,False,False,Kalanamak
+58,83.8,169.1,29.3,True,True,True,True,Black Rice
+35,55.7,169.2,19.5,False,False,False,False,Kranti
+60,70.9,151.7,30.8,True,True,False,True,Black Rice
+36,46.8,165.2,17.1,False,False,False,False,Swarna
+19,97.8,165.7,35.6,True,False,True,True,Kurumkuruva
+76,48.5,155.4,20.1,False,False,True,False,Arize 6444
+40,77.4,181.8,23.4,False,True,True,False,Ponmani
+31,63.7,174.0,21.0,True,False,True,False,IR20
+43,97.7,153.2,41.6,False,False,True,True,Kohinoor
+50,80.5,179.5,25.0,False,False,True,False,Varadhan
+65,86.0,162.0,32.8,True,False,True,True,Rasi
+20,54.6,169.3,19.0,False,True,True,False,Malvika
+47,57.3,180.3,17.6,False,False,False,False,Navara
+62,55.3,174.2,18.2,False,False,False,False,Matta
+63,56.7,168.7,19.9,False,False,True,False,MTU1010
+53,79.0,150.1,35.1,False,False,True,True,Dubraj
+58,54.2,184.4,15.9,True,True,True,False,US312
+20,70.2,175.6,22.8,True,False,True,False,Ajaya
+50,53.0,158.2,21.2,True,False,False,False,Rasi Diamond
+77,62.3,172.4,21.0,True,False,False,False,Danteshwari
+76,94.7,162.3,36.0,True,False,False,True,Neeraja
+70,53.3,145.3,25.2,False,False,False,True,Amrit Bhog
+61,68.7,187.4,19.6,False,True,False,False,Rasi Platinum
+45,90.9,178.1,28.7,False,True,False,True,Chinoor
+59,88.7,185.2,25.9,False,True,True,True,Patni
+66,79.9,168.5,28.1,True,True,False,True,Jaya
+52,75.6,176.1,24.4,True,False,True,False,Jalmagna
+73,81.5,150.2,36.1,False,True,True,True,NDR 2064
+63,45.9,165.3,16.8,True,False,True,False,Red Rice
+80,52.3,147.5,24.0,True,False,True,False,Pusa 1121
+19,60.8,182.9,18.2,False,True,True,False,MTU 7029
+48,61.9,149.4,27.7,True,True,True,True,Narmada
+51,60.3,174.7,19.8,False,True,False,False,IR 36
+55,88.1,153.6,37.3,True,False,False,True,Chakhao
+70,49.3,183.8,14.6,False,True,True,False,Dubraj
+34,76.9,182.3,23.1,True,False,True,False,Tamang
+48,80.1,184.7,23.5,True,True,False,False,Wada Kolam
+37,46.5,189.4,13.0,False,False,False,False,MTU 7029
+52,70.6,189.8,19.6,False,True,False,False,Kalanamak
+73,61.1,161.0,23.6,False,False,False,False,Lalat
+20,65.4,183.3,19.5,False,False,True,False,Pant Dhan 4
+44,74.4,150.0,33.1,True,True,True,True,NDR 2064
+69,45.5,166.5,16.4,True,True,True,False,Kavuni
+74,83.5,176.9,26.7,True,False,True,True,Savitri
+68,82.0,164.3,30.4,True,False,True,True,Jaya
+43,67.8,181.5,20.6,True,False,True,False,Rajendra Sweta
+48,52.9,165.6,19.3,False,True,False,False,Kohinoor
+68,89.2,160.2,34.8,True,False,True,True,PR114
+47,71.3,182.0,21.5,True,True,False,False,Rajamudi
+38,75.8,161.4,29.1,False,True,True,True,Bhoomi
+51,65.5,177.5,20.8,False,False,False,False,Arize Gold
+49,50.1,176.2,16.1,True,True,True,False,Swarna
+38,95.9,161.6,36.7,True,True,False,True,Chitti Mutyalu
+54,60.9,180.7,18.7,True,True,True,False,Chitti Mutyalu
+60,75.3,162.6,28.5,True,False,True,True,Chitti Mutyalu
+40,63.6,178.0,20.1,True,False,False,False,Heer
+69,57.2,167.2,20.5,True,False,False,False,Mogra
+62,74.5,147.4,34.3,False,False,False,True,Danteshwari
+27,89.7,146.9,41.6,False,False,False,True,Patni
+65,65.4,161.2,25.2,False,True,False,True,Krishna Hamsa
+39,68.6,173.5,22.8,True,True,False,False,CR 1009
+63,69.3,184.5,20.4,False,True,True,False,Kranti
+32,71.7,176.6,23.0,True,False,True,False,US312
+56,90.6,175.5,29.4,False,True,True,True,Varadhan
+55,82.1,159.1,32.4,False,True,True,True,Masuri
+35,92.4,151.9,40.0,False,True,False,True,Tarori Basmati
+55,87.4,180.8,26.7,False,False,False,True,Naveen Sankar
+60,68.0,166.6,24.5,False,True,True,False,MTU 7029
+47,75.6,170.1,26.1,True,False,True,True,Malviya 36
+69,74.3,182.4,22.3,True,True,False,False,Black Rice
+22,72.2,153.0,30.8,True,True,True,True,Pusa 1509
+76,45.4,163.8,16.9,False,True,True,False,Ponmani
+70,96.4,150.3,42.7,True,True,True,True,Red Rice
+57,79.4,181.8,24.0,False,True,True,False,Neelam
+78,81.2,145.4,38.4,False,False,True,True,RNR 15048
+74,57.7,154.6,24.1,False,True,False,False,Swarna
+30,58.2,188.0,16.5,True,True,True,False,Bhutmoori
+42,50.9,174.1,16.8,False,True,False,False,Malviya 36
+42,93.9,168.3,33.2,True,False,True,True,Kavuni
+50,91.7,147.5,42.1,False,False,False,True,Samba Mahsuri
+67,78.5,160.9,30.3,True,True,True,True,Ambemohar
+29,61.3,171.6,20.8,False,False,True,False,Savitri
+22,46.5,180.0,14.4,False,False,True,False,Chitti Mutyalu
+23,80.3,163.4,30.1,False,True,False,True,Ponmani
+35,66.6,156.8,27.1,True,True,False,True,Bhadrachalam
+62,99.5,175.8,32.2,True,False,False,True,Dubraj
+24,83.5,154.3,35.1,True,False,False,True,Kranti
+54,92.4,176.1,29.8,False,False,True,True,CR 1009
+62,83.7,172.8,28.0,True,True,False,True,Malvika
+71,80.7,153.0,34.5,True,True,False,True,Neeraja
+51,50.6,169.9,17.5,False,True,True,False,Karjat
+31,57.8,147.2,26.7,True,False,False,True,CR 1009
+31,93.3,171.5,31.7,False,True,False,True,Jeerakasala
+42,72.8,174.7,23.9,True,False,True,False,VL Dhan 221
+50,97.9,172.2,33.0,False,False,True,True,IR20
+39,91.9,161.6,35.2,True,False,True,True,Kurumkuruva
+62,83.7,156.2,34.3,True,True,True,True,NDR 359
+75,60.1,150.4,26.6,False,True,False,True,IET 4786
+20,66.5,163.5,24.9,False,True,True,False,Rasi Supreme
+51,49.4,174.0,16.3,True,False,True,False,Rajendra Bhagwati
+50,84.6,153.1,36.1,False,False,True,True,Bhoomi
+34,69.4,177.1,22.1,True,False,True,False,Chakhao
+69,58.7,161.2,22.6,False,False,True,False,Sona Masuri
+21,84.6,171.3,28.8,True,False,False,True,Bhoomi
+37,87.3,187.0,25.0,False,False,True,False,Neelam
+42,86.5,163.2,32.5,True,False,True,True,Masuri
+69,69.2,157.0,28.1,False,False,True,True,Amrit Bhog
+55,71.4,181.8,21.6,True,False,False,False,Rajamudi
+69,95.2,189.0,26.7,True,False,True,True,Jaya
+24,89.6,157.1,36.3,True,True,False,True,Pant Dhan 4
+61,76.6,167.3,27.4,True,True,True,True,Rasi Platinum
+71,87.0,187.2,24.8,False,False,True,False,Rasi Supreme
+45,74.3,166.6,26.8,False,True,False,True,Krishna Hamsa
+73,98.1,170.6,33.7,False,True,True,True,Masuri
+46,62.0,161.9,23.7,True,True,True,False,MTU1010
+24,53.3,182.6,16.0,False,False,True,False,Phou
+38,97.2,147.0,45.0,True,True,True,True,Black Rice
+77,45.4,165.1,16.7,True,False,True,False,Naveen Sankar
+49,66.9,176.3,21.5,True,False,False,False,Kagga
+20,60.1,153.8,25.4,True,True,False,True,Bhadua
+67,83.2,155.0,34.6,True,False,False,True,Arize Gold
+26,79.1,170.5,27.2,True,False,True,True,Red Rice
+26,64.5,189.0,18.1,False,False,False,False,Naveen
+34,77.4,156.9,31.4,False,True,True,True,Bhadua
+41,89.8,165.9,32.6,True,True,True,True,Pant Dhan 4
+50,91.0,147.2,42.0,False,True,False,True,IET 4786
+58,75.8,183.6,22.5,False,True,False,False,Tamang
+59,97.2,181.3,29.6,False,False,False,True,IET 4786
+18,69.2,170.7,23.7,True,True,True,False,Ponmani
+27,77.1,145.2,36.6,True,True,False,True,Ponni
+69,87.2,158.8,34.6,True,False,False,True,Basmati 370
+62,77.3,164.9,28.4,True,True,False,True,Kranti
+63,99.5,164.9,36.6,True,False,True,True,Pusa 1121
+61,66.9,184.3,19.7,True,False,True,False,Arize 6444
+45,75.0,168.0,26.6,False,False,True,True,Rajendra Sweta
+35,71.2,156.1,29.2,False,True,False,True,US312
+29,96.2,146.3,44.9,False,True,False,True,Sugandha
+48,61.8,157.2,25.0,True,True,False,False,Kavuni
+61,78.1,148.6,35.4,False,True,False,True,Krishna Hamsa
+63,47.0,161.5,18.0,True,False,True,False,Navara
+80,74.4,165.1,27.3,True,False,True,True,Janki
+58,78.6,150.0,34.9,False,True,True,True,Ajaya
+76,50.9,173.1,17.0,False,True,False,False,IET 4786
+40,69.4,179.3,21.6,True,True,False,False,Kurumkuruva
+54,61.9,155.9,25.5,True,False,True,True,Kurumkuruva
+34,62.6,161.7,23.9,True,True,False,False,Chinoor
+25,79.6,169.4,27.7,True,True,True,True,Arize Gold
+41,52.3,147.8,23.9,False,False,True,False,IET 4786
+53,95.0,162.1,36.2,False,False,False,True,Tulaipanji
+48,85.2,185.9,24.7,True,False,True,False,Sharbati
+44,57.9,178.0,18.3,True,False,False,False,HMT
+43,49.8,180.2,15.3,True,True,False,False,US312
+30,61.4,180.6,18.8,False,False,False,False,Rasi Gold
+75,59.6,167.4,21.3,False,False,True,False,Sugandha
+27,53.2,169.8,18.5,False,False,True,False,Pusa Basmati-1
+75,89.5,171.3,30.5,False,True,True,True,RNR 15048
+36,66.5,157.6,26.8,True,True,True,True,Jaya
+48,57.6,173.9,19.0,False,False,False,False,IET 4786
+66,62.7,190.0,17.4,True,True,True,False,RNR 15048
+35,58.1,168.0,20.6,False,False,True,False,Kurumkuruva
+19,60.4,175.5,19.6,True,False,True,False,BPT 5204
+43,71.4,172.4,24.0,False,False,False,False,Matta
+27,49.8,152.5,21.4,False,False,True,False,Chitti Mutyalu
+60,86.4,187.2,24.7,True,False,True,False,Narayan Kamini
+54,56.5,161.2,21.7,True,True,True,False,Samba Mahsuri
+36,76.3,156.3,31.2,True,False,True,True,Chakhao Poireiton
+44,91.8,181.0,28.0,True,True,False,True,CR 1009
+59,56.2,182.0,17.0,False,True,True,False,Rasi Gold
+70,84.9,187.6,24.1,False,True,True,False,IR20
+54,78.1,152.5,33.6,False,True,False,True,IR64
+41,93.0,185.5,27.0,False,False,False,True,Wada Kolam
+57,88.6,148.8,40.0,False,True,True,True,NDR 359
+41,56.4,164.8,20.8,True,True,False,False,VL Dhan 202
+64,79.6,145.9,37.4,True,True,False,True,Naveen
+19,97.9,176.7,31.4,False,True,False,True,Red Rice
+39,86.7,145.5,41.0,True,False,True,True,Rajendra Bhagwati
+78,83.9,178.7,26.3,True,False,True,True,Kalanamak
+77,59.0,156.9,24.0,False,True,False,False,RNR 15048
+26,54.1,183.0,16.2,False,True,False,False,Tarori Basmati
+34,78.1,163.4,29.3,False,False,True,True,Navara
+19,80.3,145.8,37.8,True,False,False,True,Ponni
+61,53.0,185.2,15.5,False,True,True,False,Ambemohar
+65,89.8,161.3,34.5,True,False,True,True,DRR Dhan 45
+53,94.4,174.8,30.9,True,True,True,True,Kalajeera
+39,49.7,189.9,13.8,True,False,True,False,Chakhao
+19,61.1,179.6,18.9,True,True,True,False,Chitti Mutyalu
+34,93.2,183.8,27.6,False,False,True,True,Janki
+22,57.4,155.6,23.7,True,True,True,False,Karjat
+78,61.8,165.1,22.7,True,True,True,False,Bhoomi
+80,82.6,187.1,23.6,False,True,False,False,Rajendra Sweta
+45,53.9,159.2,21.3,True,True,True,False,Rasi Supreme
+50,84.3,177.2,26.8,True,False,True,True,Krishna Hamsa
+80,95.3,177.4,30.3,True,False,True,True,MTU 7029
+42,72.4,173.8,24.0,True,False,False,False,Arize Gold
+65,64.4,145.1,30.6,True,True,True,True,Rajendra Sweta
+18,81.3,173.6,27.0,False,False,False,True,Kohinoor
+59,82.3,148.8,37.2,True,False,True,True,Phou
+21,76.2,180.0,23.5,True,True,False,False,Kalajeera
+80,69.0,160.3,26.9,False,False,True,True,Masuri
+18,94.0,186.7,27.0,False,True,False,True,Bhadrachalam
+51,80.7,159.3,31.8,True,False,False,True,Rasi
+36,50.9,165.7,18.5,False,False,False,False,DRR Dhan 45
+36,87.2,166.3,31.5,True,True,False,True,NDR 359
+63,63.7,178.5,20.0,False,True,False,False,Lalat
+72,68.5,154.8,28.6,True,True,False,True,Pusa Basmati-1
+70,88.3,166.8,31.7,True,True,False,True,Heer
+19,45.5,161.4,17.5,True,False,True,False,MTU 7029
+77,83.1,187.1,23.7,True,True,True,False,Jaya
+21,71.0,149.2,31.9,True,True,True,True,CR 1009
+25,57.5,153.7,24.3,False,False,True,False,Ponmani
+68,94.3,184.4,27.7,True,False,True,True,Tamang
+28,81.9,163.4,30.7,True,False,True,True,Jaya
+24,60.0,155.6,24.8,True,True,False,False,Rathna Choodi
+40,76.2,184.8,22.3,False,True,False,False,Bhadrachalam
+40,63.4,173.4,21.1,False,True,False,False,Red Rice
+41,76.2,187.7,21.6,True,False,True,False,Narmada
+72,52.3,187.2,14.9,False,True,False,False,Malviya 36
+55,85.8,185.4,25.0,True,False,False,False,RNR 15048
+47,69.4,189.3,19.4,True,False,True,False,Sharbati
+61,88.8,146.6,41.3,True,False,False,True,Chakhao
+80,64.1,180.2,19.7,True,False,False,False,Rajendra Bhagwati
+59,64.0,156.6,26.1,False,False,False,True,Pusa 1121
+46,59.3,163.5,22.2,True,False,True,False,Pusa 1509
+36,52.3,151.2,22.9,True,True,False,False,IR 36
+20,55.1,180.6,16.9,True,False,False,False,CR 1009
+21,64.1,189.3,17.9,False,False,True,False,RNR 15048
+43,47.7,186.8,13.7,False,False,False,False,Sugandha
+18,90.0,167.5,32.1,True,False,True,True,Naveen Sankar
+29,93.6,174.2,30.8,True,True,True,True,Savitri
+72,60.8,170.2,21.0,True,False,True,False,Navara
+37,59.4,188.7,16.7,False,False,False,False,Ambemohar
+77,59.1,168.8,20.7,True,False,False,False,Wada Kolam
+77,88.3,145.6,41.7,False,False,True,True,Ponmani
+20,86.4,147.5,39.7,True,False,True,True,Black Rice
+70,61.2,155.5,25.3,True,False,False,True,Pusa 1121
+38,60.3,181.8,18.2,True,True,True,False,Sugandha
+51,76.2,187.7,21.6,False,False,False,False,Suraj
+28,73.9,149.2,33.2,False,True,True,True,Jeerakasala
+58,98.9,184.8,29.0,False,True,True,True,Ajaya
+49,46.7,174.8,15.3,False,True,True,False,Black Rice
+71,47.4,152.1,20.5,True,False,True,False,Mogra
+58,51.3,178.9,16.0,True,True,True,False,Bhadrachalam
+69,60.2,163.8,22.4,True,True,True,False,Ponmani
+30,91.3,154.4,38.3,False,False,True,True,Kavuni
+28,55.0,152.1,23.8,False,False,True,False,Ratna
+79,69.0,182.5,20.7,False,False,False,False,Ajaya
+20,74.6,161.6,28.6,False,True,True,True,Kavuni
+69,82.4,152.0,35.7,False,False,False,True,BPT 5204
+34,82.8,183.1,24.7,False,False,True,False,Ambemohar
+40,67.9,165.9,24.7,True,False,True,False,Black Rice
+62,64.7,178.9,20.2,False,True,False,False,NDR 2064
+66,68.4,186.8,19.6,False,True,True,False,Pusa Basmati-1
+26,55.9,160.4,21.7,False,False,False,False,Rasi Supreme
+66,83.2,163.1,31.3,True,True,True,True,Ratna
+22,87.9,183.3,26.2,True,False,True,True,DRR Dhan 45
+29,89.1,156.5,36.4,True,False,True,True,Matta
+70,62.2,164.2,23.1,False,False,True,False,Bhadrachalam
+19,54.1,157.3,21.9,False,False,True,False,Mansuri
+60,99.3,146.5,46.3,True,True,True,True,Kranti
+77,73.5,188.0,20.8,False,False,False,False,Janki
+57,79.0,155.8,32.5,True,False,True,True,Rasi Supreme
+23,84.0,160.6,32.6,True,False,True,True,Lalat
+79,91.1,163.8,34.0,False,False,True,True,BPT 5204
+34,47.1,153.1,20.1,True,True,False,False,IR20
+72,94.2,156.2,38.6,False,False,True,True,Chinoor
+24,54.3,185.4,15.8,False,True,False,False,VL Dhan 202
+46,95.9,160.7,37.1,False,True,True,True,Krishna Hamsa
+49,95.3,166.5,34.4,False,False,False,True,Kranti
+62,90.2,172.8,30.2,False,True,True,True,Ratna
+23,48.0,178.3,15.1,False,True,True,False,Rasi Platinum
+55,85.6,189.9,23.7,False,True,False,False,Pusa 1121
+72,93.7,170.4,32.3,False,True,False,True,Malvika
+49,88.5,176.5,28.4,False,False,True,True,Jaya
+31,69.2,189.4,19.3,False,True,True,False,VL Dhan 202
+78,48.6,166.1,17.6,True,False,False,False,Sugandha
+54,52.4,170.7,18.0,True,True,True,False,IR64
+75,63.0,179.3,19.6,False,False,True,False,Mansuri
+21,90.3,173.4,30.0,True,True,True,True,IR20
+31,76.1,157.1,30.8,True,False,False,True,Ponni
+68,87.3,172.0,29.5,False,True,False,True,Rathna Choodi
+48,72.7,162.4,27.6,False,False,True,True,Ambemohar
+41,68.4,147.5,31.4,True,False,False,True,Mansuri
+34,59.6,157.2,24.1,False,False,True,False,Janki
+77,94.8,181.5,28.8,False,True,False,True,Naveen
+43,94.2,165.7,34.3,False,True,True,True,VL Dhan 221
+40,65.0,148.4,29.5,False,False,False,True,Black Rice
+46,53.5,151.4,23.3,True,False,False,False,Navara
+21,52.9,148.1,24.1,False,False,True,False,Kagga
+80,94.8,147.1,43.8,False,True,True,True,Masuri
+47,77.8,179.7,24.1,False,False,True,False,Ratna
+65,89.0,169.7,30.9,True,True,True,True,Narmada
+76,79.9,174.7,26.2,True,True,True,True,Kalajeera
+72,55.1,178.5,17.3,False,True,False,False,MTU1010
+36,75.4,189.1,21.1,True,True,True,False,IET 4786
+47,98.3,156.2,40.3,True,False,False,True,HMT
+41,99.1,189.9,27.5,False,False,True,True,Wada Kolam
+36,72.4,184.0,21.4,True,True,True,False,Amrit Bhog
+52,56.8,189.1,15.9,False,False,False,False,Tamang
+44,56.8,148.7,25.7,True,False,False,True,Naveen
+22,70.8,177.5,22.5,True,False,True,False,Samba Mahsuri
+55,92.3,152.1,39.9,False,False,False,True,US312
+63,60.2,160.3,23.4,False,False,True,False,Ponni
+38,75.6,153.6,32.0,True,False,False,True,Samba Mahsuri
+73,80.5,188.0,22.8,False,True,False,False,Naveen
+66,78.0,177.1,24.9,False,False,False,False,Mansuri
+71,87.7,175.3,28.5,False,True,True,True,Wada Kolam
+54,74.0,174.5,24.3,False,False,True,False,Kagga
+70,67.8,163.7,25.3,False,True,True,True,IET 4094
+53,62.0,152.5,26.7,False,True,True,True,Matta
+18,99.6,180.2,30.7,False,True,False,True,Aruna
+55,96.4,156.2,39.5,True,True,False,True,Chinoor
+45,77.0,173.5,25.6,True,True,False,True,Mansuri
+77,62.9,178.9,19.7,False,True,False,False,Savitri
+63,71.8,166.2,26.0,True,True,False,True,Heer
+61,92.2,150.2,40.9,False,False,False,True,Rasi Supreme
+61,60.8,184.1,17.9,True,True,True,False,Sugandha
+20,84.3,166.4,30.4,False,True,True,True,Rasi Diamond
+27,92.6,165.4,33.8,True,False,True,True,Chinoor
+22,58.7,151.2,25.7,False,False,True,True,Bhadua
+33,56.5,167.9,20.0,True,False,True,False,Bhutmoori
+69,91.6,183.5,27.2,True,True,True,True,PR114
+25,79.4,150.2,35.2,True,False,True,True,BPT 5204
+47,91.5,162.6,34.6,True,False,False,True,Indrayani
+26,89.7,153.0,38.3,False,True,True,True,Red Rice
+54,49.0,165.3,17.9,True,False,True,False,Patni
+24,77.3,152.4,33.3,True,True,False,True,Danteshwari
+42,80.2,172.2,27.0,False,True,True,True,Bhadrachalam
+67,65.6,177.8,20.8,False,False,True,False,Bhutmoori
+72,94.3,181.9,28.5,True,True,False,True,DRR Dhan 45
+23,70.6,176.1,22.8,True,True,True,False,Naveen
+44,89.1,154.7,37.2,False,True,False,True,Black Rice
+46,82.5,179.6,25.6,False,True,True,True,Bhadrachalam
+52,73.2,155.0,30.5,True,False,True,True,Bhoomi
+36,52.1,156.3,21.3,True,True,False,False,HMT
+73,56.5,166.5,20.4,True,True,False,False,Black Rice
+23,60.9,169.8,21.1,False,True,False,False,Heer
+23,47.6,165.8,17.3,True,False,True,False,VL Dhan 221
+34,71.0,165.6,25.9,True,True,True,True,Jaya
+66,72.5,154.6,30.3,False,False,False,True,Naveen
+42,56.8,173.6,18.8,True,True,False,False,CR 1009
+78,96.4,153.8,40.8,False,False,True,True,Danteshwari
+57,47.7,157.6,19.2,False,True,True,False,Matta
+38,81.9,164.8,30.2,False,True,False,True,Ratna
+19,61.8,186.3,17.8,False,True,False,False,Sona Masuri
+63,69.1,149.8,30.8,False,False,True,True,Pusa 1121
+33,67.9,175.2,22.1,True,True,True,False,US312
+67,96.5,147.5,44.4,True,True,False,True,Mansuri
+50,70.6,157.3,28.5,False,False,True,True,Neeraja
+25,82.0,177.0,26.2,False,True,True,True,Kalajeera
+68,53.8,189.3,15.0,True,True,False,False,Mansuri
+69,97.7,180.1,30.1,True,True,True,True,Ambemohar
+60,90.4,156.0,37.1,True,False,False,True,Dubraj
