@@ -1,0 +1,9 @@
+@import url('index.css');
+
+.list {
+  text-align: left;
+  max-width: 500px;
+  margin: 20px auto;
+  font-size: 1.1rem;
+  line-height: 1.6;
+}

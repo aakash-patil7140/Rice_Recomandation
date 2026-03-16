@@ -1,0 +1,93 @@
+:root {
+  --bg: #fff8e1;
+  --primary: #fbc02d;
+  --accent: #e65100;
+  --text: #3c3c3c;
+  --hover: #ff8f00;
+}
+
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background-color: var(--bg);
+  color: var(--text);
+}
+
+nav {
+  background-color: var(--accent);
+  padding: 15px;
+  text-align: center;
+}
+
+nav a {
+  color: white;
+  margin: 0 15px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+.container {
+  background: white;
+  margin: 40px auto;
+  padding: 40px;
+  border-radius: 20px;
+  max-width: 700px;
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.2);
+  text-align: center;
+}
+
+h1 {
+  color: var(--accent);
+}
+
+label {
+  font-weight: bold;
+  display: block;
+  text-align: left;
+  margin-bottom: 6px;
+}
+
+input[type="text"] {
+  padding: 10px;
+  width: 90%;
+  border: 1px solid #ccc;
+  border-radius: 12px;
+  font-size: 16px;
+  margin-bottom: 15px;
+  transition: box-shadow 0.3s ease;
+}
+
+input[type="text"]:focus {
+  outline: none;
+  box-shadow: 0 0 5px var(--primary);
+  border-color: var(--primary);
+}
+
+input[type="checkbox"] {
+  margin-right: 8px;
+  transform: scale(1.2);
+}
+
+.btn {
+  background-color: var(--primary);
+  color: white;
+  padding: 12px 28px;
+  border: none;
+  border-radius: 30px;
+  font-size: 16px;
+  text-decoration: none;
+  transition: background 0.3s ease, transform 0.2s ease;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.btn:hover {
+  background-color: var(--hover);
+  transform: scale(1.03);
+}
